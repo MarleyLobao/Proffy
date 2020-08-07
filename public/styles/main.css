@@ -49,6 +49,7 @@ textarea {
 
 #container {
     width: 90vw;
+    height: 90vh;
     max-width: 700px;
 }
 
